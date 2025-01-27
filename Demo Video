@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Order Management App Demo</title>
+</head>
+<body>
+  <h1>Watch the Video</h1>
+  <!-- Link to a video -->
+  <a href="https://www.loom.com/share/63e9b10e3f3347329fb3201d79f9d4a5?sid=244b42b1-65f9-4e59-afdd-7a8f88eca60b">Click here to watch the video</a>
+
+  <br><br>
+</body>
+</html>
